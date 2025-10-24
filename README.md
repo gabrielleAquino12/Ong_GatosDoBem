@@ -95,7 +95,7 @@ Formulários com validação de dados e máscaras de input
 
 1. Baixe o projeto ou clone o repositório:
 
-git clone https://github.com/gabrielleAquino12/Ong_GatosDoBem
+git clone https://github.com/gabrielleAquino12/Ong_GatosDoBem.git
 
 
 2. Abra a pasta no VS Code:
